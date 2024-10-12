@@ -1,6 +1,6 @@
 # 💫 About Me:
-🎓 First-year CS student of Rajshahi University of Engineering and Technology (RUET)<be>
-🔭 Currently focused on broadening my skillset and improving my CP skills<be>
+🎓 First-year CS student of Rajshahi University of Engineering and Technology (RUET)<br>
+🔭 Currently focused on broadening my skillset and improving my CP skills<br>
 💬 Ask me anything if you need help to start competitive programming or even programming in general<br><br>
 
 
