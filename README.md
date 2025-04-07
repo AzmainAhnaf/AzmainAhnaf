@@ -1,5 +1,3 @@
-![SavePalestine]([https://raw.githubusercontent.com/.../save-palestine.svg](https://raw.githubusercontent.com/OneDroid/.github/refs/heads/main/images/badge/save-palestine.svg?fbclid=IwY2xjawJgL2JleHRuA2FlbQIxMAABHl5SXmCtbTdEXZKURfIS18KEJVbInreYEQ9P0Bkn7IZdvIqyv09e30gvBuQc_aem_rwW6L_ksYIr8oIsBTCtkIQ))
-
 # 💫 About Me:
 🎓 First-year CS student of Rajshahi University of Engineering and Technology (RUET)<br>
 🔭 Currently focused on broadening my skillset and improving my CP skills<br>
