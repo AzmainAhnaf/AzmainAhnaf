@@ -1,3 +1,5 @@
+![SavePalestine](https://raw.githubusercontent.com/.../save-palestine.svg) <br>
+
 # 💫 About Me:
 🎓 First-year CS student of Rajshahi University of Engineering and Technology (RUET)<br>
 🔭 Currently focused on broadening my skillset and improving my CP skills<br>
