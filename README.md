@@ -1,4 +1,4 @@
-![SavePalestine](https://raw.githubusercontent.com/.../save-palestine.svg) <br>
+![SavePalestine](https://raw.githubusercontent.com/.../save-palestine.svg)
 
 # 💫 About Me:
 🎓 First-year CS student of Rajshahi University of Engineering and Technology (RUET)<br>
